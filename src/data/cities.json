@@ -1,0 +1,142 @@
+{
+  "Kinshasa": {
+    "province": "Kinshasa",
+    "latitude": 4.3517,
+    "longitude": 15.3215,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Lubumbashi": {
+    "province": "Haut-Katanga",
+    "latitude": -10.6753,
+    "longitude": 27.5349,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Mbuji Mayi": {
+    "province": "Kasaï",
+    "latitude": -6.1447,
+    "longitude": 23.5760,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Kananga": {
+    "province": "Kasaï-Central",
+    "latitude": -5.8979,
+    "longitude": 22.4168,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Kolwezi": {
+    "province": "Lualaba",
+    "latitude": -10.7006,
+    "longitude": 25.4688,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Likasi": {
+    "province": "Haut-Katanga",
+    "latitude": -10.9925,
+    "longitude": 26.7275,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Kisangani": {
+    "province": "Tshopo",
+    "latitude": 0.5150,
+    "longitude": 25.1910,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Mbandaka": {
+    "province": "Équateur",
+    "latitude": 0.0489,
+    "longitude": 18.2608,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Matadi": {
+    "province": "Kongo Central",
+    "latitude": -5.8204,
+    "longitude": 13.4623,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Kikwit": {
+    "province": "Kwilu",
+    "latitude": -5.0408,
+    "longitude": 18.8083,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Kenge": {
+    "province": "Kwango",
+    "latitude": -5.0970,
+    "longitude": 16.0403,
+    "timezone": "Africa/Kinshasa",
+    "postal_code": null
+  },
+  "Kindu": {
+    "province": "Maniema",
+    "latitude": -2.9580,
+    "longitude": 25.9120,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Kamina": {
+    "province": "Haut-Lomami",
+    "latitude": -8.7529,
+    "longitude": 25.2057,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Kalemie": {
+    "province": "Tanganyika",
+    "latitude": -5.9454,
+    "longitude": 29.1874,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Butembo": {
+    "province": "Nord-Kivu",
+    "latitude": 0.1465,
+    "longitude": 29.2885,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Bunia": {
+    "province": "Ituri",
+    "latitude": 1.5669,
+    "longitude": 30.2188,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Goma": {
+    "province": "Nord-Kivu",
+    "latitude": -1.6833,
+    "longitude": 29.2333,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Bukavu": {
+    "province": "Sud-Kivu",
+    "latitude": -2.5147,
+    "longitude": 28.8420,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Beni": {
+    "province": "Nord-Kivu",
+    "latitude": 0.5077,
+    "longitude": 29.4733,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  },
+  "Uvira": {
+    "province": "Sud-Kivu",
+    "latitude": -3.3842,
+    "longitude": 29.1542,
+    "timezone": "Africa/Lubumbashi",
+    "postal_code": null
+  }
+}
